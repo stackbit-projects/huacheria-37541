@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/Background.jpg
-    background_image_opacity: 65
+    background_image_opacity: 21
     content: >
       # Premium High Quality Handmade Leather Shoes
 
